@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content>
+    <book>
+        <id>1</id>
+        <author>Тереза Георгиева</author>
+        <name>О, Животе</name>
+    </book>
+    <book>
+        <id>2</id>
+        <author>Stiv Petkov</author>
+        <name>Stay away</name>
+    </book>
+    <book>
+        <id>3</id>
+        <author>Elon Musk</author>
+        <name>A travel to the space</name>
+    </book>
+    <book>
+        <id>4</id>
+        <author>Milano Servantes</author>
+        <name>The typical woman</name>
+    </book>
+    <book>
+        <id>5</id>
+        <author>Georgi Stoqnov</author>
+        <name>Inspired</name>
+    </book>
+    <book>
+        <id>6</id>
+        <author>John Doe</author>
+        <name>Fairy tails story</name>
+    </book>
+    <book>
+        <id>7</id>
+        <author>Elon Musk</author>
+        <name>A travel to the space</name>
+    </book>
+    <book>
+        <id>8</id>
+        <author>Milano Servantes</author>
+        <name>The typical woman</name>
+    </book>
+    <book>
+        <id>9</id>
+        <author>Korean Author</author>
+        <name>꿀벌</name>
+    </book>
+    <book>
+        <id>10</id>
+        <author>Japanese Author</author>
+        <name>々仝</name>
+    </book>
+
+</content>
